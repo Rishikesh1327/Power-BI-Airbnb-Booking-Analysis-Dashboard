@@ -18,4 +18,7 @@ This Power BI dashboard provides a detailed analysis of Airbnb booking data in N
 
 ---
 
+![Airbnb Booking Analysis Dashboard](https://github.com/user-attachments/assets/73a21662-00c0-4dda-a5b2-c965c7bfdb48)
+
+---
 - Overall, this dashboard empowers stakeholders with actionable insights into Airbnb's New York City market, enhancing decision-making for hosts and guests alike.
